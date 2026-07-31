@@ -24,3 +24,6 @@ Append-only. One row per successful application. Agents must read this before ap
 | 2026-08-01 | Wabtec | Intern-Engineering | Naukri | internship | Confirmed apply response 200 |
 | 2026-08-01 | Atom11 | SE Intern (Django + ReactJS) | LinkedIn | internship | Submit clicked; verify in My Jobs if needed |
 | 2026-08-01 | PKC | Junior Backend Engineer | Naukri | full-time | Status uncertain — verify before re-apply |
+| 2026-08-01 | Talentzo Delhi | Data / Business Analyst at A FinTech Company | Naukri | full-time | Day pilot; multi-apply 200; remote 12-16 LPA |
+| 2026-08-01 | Creative Hands HR | Data Analytic \| Fresher \| Business Analytics | Naukri | full-time | Day pilot; multi-apply 200; 2.5-6 LPA |
+| 2026-08-01 | Vibry Business Solutions | Data Analyst | Naukri | full-time | Day pilot; apply 200; 0 Yrs; 3-6 LPA; Bengaluru |
