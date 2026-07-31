@@ -1,0 +1,6 @@
+﻿# Secrets / local
+.env
+*.cookie
+*.session
+__pycache__/
+.DS_Store
