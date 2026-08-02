@@ -27,3 +27,9 @@ Append-only. One row per successful application. Agents must read this before ap
 | 2026-08-01 | Talentzo Delhi | Data / Business Analyst at A FinTech Company | Naukri | full-time | Day pilot; multi-apply 200; remote 12-16 LPA |
 | 2026-08-01 | Creative Hands HR | Data Analytic \| Fresher \| Business Analytics | Naukri | full-time | Day pilot; multi-apply 200; 2.5-6 LPA |
 | 2026-08-01 | Vibry Business Solutions | Data Analyst | Naukri | full-time | Day pilot; apply 200; 0 Yrs; 3-6 LPA; Bengaluru |
+| 2026-08-02 | Capgemini | Software Engineer | Naukri | full-time | Night pilot; apply success; 0-5 Yrs; Bengaluru |
+| 2026-08-02 | Velocix Solutions | Software Engineer | Naukri | full-time | Night pilot; screening Q's (Python/SQL yes); remote; 0-1 Yrs |
+| 2026-08-02 | Sunrise Biztech Systems | Software Development Engineer 1 | Naukri | full-time | Night pilot; screening Q's answered; Hyderabad; 0-2 Yrs |
+| 2026-08-02 | Techsoft | Software Developer Fresher | Naukri | full-time | Night pilot; fresher; 3-4 LPA; Hyderabad |
+| 2026-08-02 | Tensoargo Technologies | Full Stack Intern | Naukri | internship | Night pilot; React/Node/AWS; Hyderabad; 0-1 Yrs |
+| 2026-08-02 | Vedamcloud Technologies | Fresher B.Tech (CSE) Graduate — Trainee | Naukri | full-time | Night pilot; SQL/Oracle Cloud ERP; 4-8.5 LPA; Bengaluru/Hyderabad |
