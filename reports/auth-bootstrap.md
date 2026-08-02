@@ -1,21 +1,26 @@
-# Auth bootstrap report — 2026-08-01
+# Auth bootstrap report — 2026-08-02
 
-## Local Playwright (laptop on) — verified 2026-08-01
+## GitHub remote — DONE
+| Item | Status |
+|------|--------|
+| Repo | https://github.com/sanjayvaitla/job-apply-agent.git |
+| Branch | `master` (AGENTS.md merged) |
+
+## Cloud (laptop off) — VERIFIED 2026-08-02
 | Site | Status | Evidence |
 |------|--------|----------|
-| Naukri | **LOGIN_OK** | `https://www.naukri.com/mnjuser/homepage` loaded as fresher home (logged in) |
-| LinkedIn | **LOGIN_OK** | `https://www.linkedin.com/feed/` loaded (not login wall) |
-| Foundit | Session present (dashboard tab) | Optional for v1 |
+| Naukri | **LOGIN_OK** | Logged in as sanjayvailla; job detail Apply button visible (not clicked) |
+| LinkedIn | **LOGIN_OK** | Logged in as SANJAY VAITLA; Easy Apply modal opened with pre-filled info, then Discarded (not submitted) |
 | Internshala | SKIP | Account on hold |
 
-## Cloud (laptop off) — blocked until GitHub remote exists
-| Site | Status | Action |
-|------|--------|--------|
-| Naukri | **LOGIN_REQUIRED** | No cloud remote yet — see SETUP_GITHUB.md then AUTH_BOOTSTRAP.md |
-| LinkedIn | **LOGIN_REQUIRED** | Same — Cloud Agent launch failed: 0 git remotes on parent workspace |
+## Local Playwright (laptop on) — still OK for day runs
+| Site | Status |
+|------|--------|
+| Naukri | LOGIN_OK (local session; separate from cloud) |
+| LinkedIn | LOGIN_OK (local session; separate from cloud) |
 
-## Blocker for nightly Automation
-Night runs stay **disabled** until cloud shows LOGIN_OK for Naukri + LinkedIn.
+## Nightly Automation — UNBLOCKED
+Cloud sessions verified end-to-end per AUTH_BOOTSTRAP.md (open Apply / Easy Apply without submitting). Safe to create Automation at 01:00 IST with **PILOT cap 10**.
 
-## Day path (works now)
-While laptop is on, day pilot / day batch can use local `user-playwright` with the verified sessions above.
+## Safety
+No real applications were submitted during auth bootstrap.
