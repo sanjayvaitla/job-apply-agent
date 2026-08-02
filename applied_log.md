@@ -43,3 +43,8 @@ Append-only. One row per successful application. Agents must read this before ap
 | 2026-08-02 | Tinvio Digital Services | Quality Assurance Engineer | Naukri | full-time | Cap20 batch; QA/test (SWE-adjacent); 0-4 Yrs; remote/Bengaluru |
 | 2026-08-02 | Avom Consultants | Automation Test Engineer | Naukri | full-time | Cap20 batch; QA/test (SWE-adjacent); 0-5 Yrs; 2.5-7.5 LPA; remote/Bengaluru |
 | 2026-08-02 | Ayrtech | Junior Software Engineer | Naukri | full-time | Cap20 batch; 0-1 Yrs; Ernakulam/Trivandrum (OUTSIDE target location) |
+| 2026-08-02 | EY | AI Engineer (CT-NITRO Experimental AI) | Naukri | full-time | Cap20 batch; Bengaluru |
+| 2026-08-02 | Siemens | AI Agent Development SW Engineer | Naukri | full-time | Cap20 batch; Bengaluru |
+| 2026-08-02 | Siemens | AI Retrieval & Agent Platform Engineer | Naukri | full-time | Cap20 batch; Bengaluru |
+| 2026-08-02 | Modus Business Transformation Platform | Artificial Intelligence Engineer | Naukri | full-time | Cap20 batch; Bengaluru |
+| 2026-08-02 | Promilo | AI Engineer | Naukri | full-time | Cap20 batch; Bengaluru |
